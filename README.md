@@ -259,6 +259,6 @@ addressStyle(users) --> ['Kattie Turnpike, Suite 198, Lebsackbury, 31428']
 
 8. Create a function, `users`, that takes an array of user objects and returns an array of usernames.
 
-9. Create a function, `suites`, that takes an array of user objects and returns the user's suites that start with the number 8.
+9. Create a function, `suites`, that takes an array of user objects and returns the user's suites that start with the number 8
 
 10. Create a function, `allNames`, that takes an array of user objects and returns the names of each user.
